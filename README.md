@@ -4,3 +4,7 @@ In this activity, you are a member of an analytics team that provides insights t
 
 
 ![image](https://github.com/mukhran/EDA_practice_unicorns/assets/30066145/7df135f3-32b0-4b62-9970-d01e7d01aa27)
+
+
+<br>
+![image](https://github.com/mukhran/EDA_practice_unicorns/assets/30066145/1020fa5d-e3a6-459c-8b82-c6b08ef1a7da)
